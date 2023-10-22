@@ -1,7 +1,7 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: Leading Indicator
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Leading Indicators # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Blogging trending products, keywords, the economy, crypto, computer science, sports betting, VC news, and more   # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://danteGPT.github.io"
 
 github:
-  username: danteGPT # change to your github username
+  username: DanteGPT # change to your github username
 
 twitter:
   username: LeadingIndicator # change to your twitter username
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Dante The Chosen One
+  name: DanteGPT
   email: business@leadingindicator.co # change to your email address
   links:
     # The first element serves as the copyright owner's link
